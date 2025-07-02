@@ -67,7 +67,7 @@ Langkah utama:
 
 ---
 
-## 💻 Teknologi yang Digunakan
+##  Teknologi yang Digunakan
 
 - Python 3.10+
 - Google Colaboratory
