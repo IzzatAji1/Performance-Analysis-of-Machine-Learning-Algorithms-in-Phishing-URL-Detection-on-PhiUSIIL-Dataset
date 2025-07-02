@@ -1,7 +1,5 @@
 # Performance-Analysis-of-Machine-Learning-Algorithms-in-Phishing-URL-Detection-on-PhiUSIIL-Dataset
 
-# Analisis Kinerja Algoritma Machine Learning dalam Deteksi Phishing URL pada Dataset PhiUSIIL
-
 Repositori ini berisi hasil studi komparatif mendalam mengenai kinerja berbagai algoritma machine learning dalam mendeteksi URL phishing, menggunakan **dataset PhiUSIIL (Phishing URL Structured and Interpretable Information Learning)**.
 
 ##  Tujuan Proyek
